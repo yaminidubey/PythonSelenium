@@ -1,0 +1,39 @@
+1647889512463	geckodriver	INFO	Listening on 127.0.0.1:48841
+1647889512467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55615" "-no-remote" "-profile" "/tmp/rust_mozprofileyPOrZJ"
+1647889513144	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyPOrZJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55615/devtools/browser/d946e29e-7222-4d13-9bca-bcda5fa86b39
+1647889514536	Marionette	INFO	Listening on port 42199
+1647889514602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647889516834	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yc/l/en_GB/EtNsPfQkbpR.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1647889520682	Marionette	INFO	Stopped listening on port 42199
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647889630220	geckodriver	INFO	Listening on 127.0.0.1:60109
+1647889630224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38633" "-no-remote" "-profile" "/tmp/rust_mozprofilelNFpX0"
+1647889630802	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelNFpX0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38633/devtools/browser/b065d1c9-539c-49f3-a1d5-b39ac808bbaa
+1647889631825	Marionette	INFO	Listening on port 46699
+1647889631850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647889634193	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yc/l/en_GB/EtNsPfQkbpR.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1647889643404	Marionette	INFO	Stopped listening on port 46699
+1647950440973	geckodriver	INFO	Listening on 127.0.0.1:55019
+1647950441478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58587" "-no-remote" "-profile" "/tmp/rust_mozprofilehSmT86"
+1647950442163	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehSmT86/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58587/devtools/browser/7288bd14-a00a-4099-be4e-42f275cf8798
+1647950443237	Marionette	INFO	Listening on port 43549
+1647950443298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647950445429	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yc/l/en_GB/EtNsPfQkbpR.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1647950454902	Marionette	INFO	Stopped listening on port 43549
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
