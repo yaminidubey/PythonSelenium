@@ -10,8 +10,6 @@ def selection_sort(list1):
                 j += 1
 
         i += 1
-
-
     return list1
 
 list1 = eval(input())
